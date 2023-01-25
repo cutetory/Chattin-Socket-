@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\[0]DevJun\\WPF_Chat\\StringTalk\\SocketListener\\SocketListener.csproj",
+      "projectUniqueName": "D:\\[0]DevJun\\Github\\Chattin-Socket-\\StringTalk\\SocketListener\\SocketListener.csproj",
       "projectName": "SocketListener",
-      "projectPath": "D:\\[0]DevJun\\WPF_Chat\\StringTalk\\SocketListener\\SocketListener.csproj",
+      "projectPath": "D:\\[0]DevJun\\Github\\Chattin-Socket-\\StringTalk\\SocketListener\\SocketListener.csproj",
       "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
-      "outputPath": "D:\\[0]DevJun\\WPF_Chat\\StringTalk\\SocketListener\\obj\\",
+      "outputPath": "D:\\[0]DevJun\\Github\\Chattin-Socket-\\StringTalk\\SocketListener\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AMD\\AppData\\Roaming\\NuGet\\NuGet.Config",

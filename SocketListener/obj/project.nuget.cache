@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QBqOHiF4THvKiUYX5NlTgnCaH5T6NNg1gPMObzKheBhZTw7De0nQWw3l7ns8OMtpXVzCqirDUxyikP0INwLUTQ==",
+  "dgSpecHash": "a5Ya6CIF5tygSFFxi/NKrA1S9ijd9f8Q2Hv8fWOj9lfctRCP3aN1W0eeYeWs2aCx5xFdMgnquF0u+or08weqaA==",
   "success": true,
-  "projectFilePath": "D:\\[0]DevJun\\WPF_Chat\\StringTalk\\SocketListener\\SocketListener.csproj",
+  "projectFilePath": "D:\\[0]DevJun\\Github\\Chattin-Socket-\\StringTalk\\SocketListener\\SocketListener.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
