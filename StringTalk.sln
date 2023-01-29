@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{AC2BA021-A5B2-4E1F-978F-421CFD7A7B34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketListener", "SocketListener\SocketListener.csproj", "{A277985A-70B4-4D04-9249-F30A1E84EDAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocketListener", "SocketListener\SocketListener.csproj", "{A277985A-70B4-4D04-9249-F30A1E84EDAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebView", "WebView\WebView.csproj", "{0D16430C-7155-4E71-8984-D4D4D47863FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A277985A-70B4-4D04-9249-F30A1E84EDAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A277985A-70B4-4D04-9249-F30A1E84EDAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A277985A-70B4-4D04-9249-F30A1E84EDAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D16430C-7155-4E71-8984-D4D4D47863FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D16430C-7155-4E71-8984-D4D4D47863FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D16430C-7155-4E71-8984-D4D4D47863FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D16430C-7155-4E71-8984-D4D4D47863FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

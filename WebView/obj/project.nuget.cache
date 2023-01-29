@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MyBkxB/196prY9PqRAhXLyr+t1vpS2ZfYyHi+NCk/JOp9dFMqSeGJ2xw2+gnWhB9yr9WbtIftFxNtn5ViFf3nQ==",
+  "success": true,
+  "projectFilePath": "D:\\[0]DevJun\\Github\\Chattin-Socket-\\StringTalk\\WebView\\WebView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AMD\\.nuget\\packages\\microsoft.web.webview2\\1.0.1518.46\\microsoft.web.webview2.1.0.1518.46.nupkg.sha512"
+  ],
+  "logs": []
+}
